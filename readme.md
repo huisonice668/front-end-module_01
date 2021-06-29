@@ -1,5 +1,5 @@
 Working Project:
-https://github.com/huisonice668/front-end-module_01.git
+https://huisonice668.github.io/front-end-module_01/
 
 This is based on this tutorial:
 
