@@ -1,5 +1,5 @@
 Working Project:
-http://www.webizly.com/frontend-basic/
+https://github.com/huisonice668/front-end-module_01.git
 
 This is based on this tutorial:
 
